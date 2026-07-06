@@ -9,11 +9,10 @@ A state-of-the-art Web application for segmenting, recognizing, and vocalizing h
 Watch the system in action:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jsNn9rQNuvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <br/>
-  <a href="https://www.youtube.com/watch?v=jsNn9rQNuvs">
-    <img src="https://img.youtube.com/vi/jsNn9rQNuvs/0.jpg" alt="Watch the video" width="560" />
+  <a href="https://www.youtube.com/watch?v=jsNn9rQNuvs" target="_blank">
+    <img src="https://img.youtube.com/vi/jsNn9rQNuvs/0.jpg" alt="Devanagari Recognition System Video Demo" width="600" style="border-radius: 10px;" />
   </a>
+  <p><em>Click the image above to watch the project demonstration video on YouTube.</em></p>
 </div>
 
 ---
