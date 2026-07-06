@@ -80,7 +80,7 @@ graph TD
     E --> F[Connected Components Analysis]
     F --> G[Spatial Component Grouping & Merging]
     G --> H[Character Segment Extraction & Padding]
-    H --> I[Inference Engine (32x32 CNN)]
+    H --> I["Inference Engine (32x32 CNN)"]
 ```
 
 ### Key Preprocessing Algorithms:
@@ -143,7 +143,7 @@ erDiagram
 ## 🚀 Setup & Installation
 
 ### Prerequisite Software
-*   Python 3.8+
+*   Python 3.10 (Required)
 *   Node.js (v18+)
 *   PostgreSQL
 
