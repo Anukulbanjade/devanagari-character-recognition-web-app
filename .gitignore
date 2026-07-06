@@ -32,6 +32,7 @@ logs/
 
 # Large datasets, models, and zip archives
 *.zip
+!Zipped-folder/*.zip
 *.tar.gz
 *.csv
 *.h5
